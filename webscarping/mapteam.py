@@ -46,7 +46,7 @@ def get_team_match_stats(team_id, team_name, start_date, end_date, client):
         return None
 
 # Create an instance of ZenRowsClient
-client = ZenRowsClient("77f044fb8ba4432c25ca4d8756961ab8965f843a")
+client = ZenRowsClient("your API key")
 
 # Read data from the CSV file
 teams = []
