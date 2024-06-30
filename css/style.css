@@ -1,0 +1,191 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.teams-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.team-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 20%;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.selected-teams {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  text-align: center;
+  font-size: 25px;
+}
+
+.versus {
+  font-size: 40px;
+  margin: 150px;
+}
+
+.team-button img {
+  width: 60px;
+  height: 60px;
+}
+
+.team {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team.selected {
+  display: flex;
+}
+
+.team img {
+  width: 150px;
+  height: 150px;
+}
+
+.bo-buttons {
+  display: flex;
+  gap: 100px;
+  margin: 20px 0;
+}
+
+.bo-buttons button {
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.bo-buttons button img {
+  width: 300px; /* Taille maximale de l'image */
+  height: 150px; /* Taille maximale de l'image */
+}
+.bo-buttons.hidden {
+  display: none;
+}
+
+.maps-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.map {
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.map img {
+  width: 200px;
+  height: 200px;
+}
+
+.map.selected {
+  background-color: green;
+  color: white;
+}
+
+.map.disabled {
+  background-color: grey;
+  color: white;
+  cursor: not-allowed;
+}
+.team.winner {
+  background-color: rgba(0, 128, 0, 0.45);
+  color: rgb(255, 255, 255);
+}
+
+.team.loser {
+  background-color: rgba(255, 0, 21, 0.34);
+  color: rgb(255, 255, 255);
+}
+
+#team1-percentage, #team2-percentage {
+  display: block;
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.btn-55,
+.btn-55 *,
+.btn-55 :after,
+.btn-55 :before,
+.btn-55:after,
+.btn-55:before {
+  border: 0 solid;
+  box-sizing: border-box;
+}
+.btn-55 {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-appearance: button;
+  background-color: #000;
+  background-image: none;
+  color: #fff;
+  cursor: pointer;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+  Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif,
+  Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  font-size: 100%;
+  line-height: 1.5;
+  margin: 0;
+  -webkit-mask-image: -webkit-radial-gradient(#000, #fff);
+  padding: 0;
+}
+.btn-55:disabled {
+  cursor: default;
+}
+.btn-55:-moz-focusring {
+  outline: auto;
+}
+.btn-55 svg {
+  display: block;
+  vertical-align: middle;
+}
+.btn-55 [hidden] {
+  display: none;
+}
+.btn-55 {
+  background: linear-gradient(90deg, blue, red);
+  border-radius: 999px;
+  box-sizing: border-box;
+  color: #000;
+  display: block;
+  font-weight: 900;
+  overflow: hidden;
+  padding: 1.8rem 5rem;
+  position: relative;
+  text-transform: uppercase;
+}
+.btn-55 span {
+  background: #1e293b;
+  border-radius: 999px;
+  color: #fff;
+  display: grid;
+  inset: 5px;
+  place-items: center;
+  position: absolute;
+  transition: background 0.3s;
+}
+.btn-55:hover span {
+  background: none;
+}

@@ -1,0 +1,439 @@
+[
+    {
+        "team_name": "spirit",
+        "team_id": "7020",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/syrtYYKR7sBRw3ZHy1YFX7.png?ixlib=java-2.1.0&w=50&s=40e66714687bec05ea422255b1c0099e",
+        "hltv_score": 997,
+        "players": [
+            "chopper (ID: 7716)",
+            "sh1ro (ID: 16920)",
+            "magixx (ID: 18317)",
+            "zont1x (ID: 20423)",
+            "donk (ID: 21167)"
+        ],
+        "map_scores": {
+            "Nuke": 100.0,
+            "Mirage": 11.297375322453002,
+            "Dust2": 78.73751131650803,
+            "Ancient": 100.0,
+            "Anubis": 100.0,
+            "Vertigo": 33.26502264437876,
+            "Inferno": 35.492245237847406
+        }
+    },
+    {
+        "team_name": "vitality",
+        "team_id": "9565",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/ogcHrcCdzRvxbYvAz04KAN.png?ixlib=java-2.1.0&w=50&s=e1f6019aa9f274ffe45a5e99c88dbc02",
+        "hltv_score": 917,
+        "players": [
+            "apEX (ID: 7322)",
+            "ZywOo (ID: 11893)",
+            "flameZ (ID: 16693)",
+            "Spinx (ID: 18221)",
+            "mezii (ID: 18462)"
+        ],
+        "map_scores": {
+            "Anubis": 39.33798313768334,
+            "Dust2": 53.679212557453816,
+            "Mirage": 65.04496419589431,
+            "Inferno": 46.920940641634864,
+            "Nuke": 40.54150203212209,
+            "Vertigo": 100.0,
+            "Ancient": 40.66935589376827
+        }
+    },
+    {
+        "team_name": "mouz",
+        "team_id": "4494",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/IejtXpquZnE8KqYPB1LNKw.svg?ixlib=java-2.1.0&s=7fd33b8def053fbfd8fdbb58e3bdcd3c",
+        "hltv_score": 887,
+        "players": [
+            "Brollan (ID: 13666)",
+            "siuhy (ID: 16820)",
+            "torzsi (ID: 18072)",
+            "Jimpphat (ID: 18850)",
+            "xertioN (ID: 20312)"
+        ],
+        "map_scores": {
+            "Ancient": 69.27594925876893,
+            "Nuke": 60.692744620238685,
+            "Inferno": 30.740997387817416,
+            "Vertigo": 39.33001087000424,
+            "Mirage": 100.0,
+            "Dust2": 100.0,
+            "Anubis": 25.56087493248978
+        }
+    },
+    {
+        "team_name": "faze",
+        "team_id": "6667",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/m-wCSia4m35BeWhGzB9yv1.png?ixlib=java-2.1.0&w=50&s=caa750c895f426b49da90ed25c6f9fe9",
+        "hltv_score": 794,
+        "players": [
+            "karrigan (ID: 429)",
+            "rain (ID: 8183)",
+            "frozen (ID: 9960)",
+            "ropz (ID: 11816)",
+            "broky (ID: 18053)"
+        ],
+        "map_scores": {
+            "Mirage": 48.829249296479276,
+            "Dust2": 0.0,
+            "Inferno": 76.91330513677315,
+            "Nuke": 41.43225429267217,
+            "Anubis": 0.0,
+            "Ancient": 30.258171616298167,
+            "Vertigo": 33.77495224173801
+        }
+    },
+    {
+        "team_name": "natus-vincere",
+        "team_id": "4608",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/9iMirAi7ArBLNU8p3kqUTZ.svg?ixlib=java-2.1.0&s=4dd8635be16122656093ae9884675d0c",
+        "hltv_score": 739,
+        "players": [
+            "Aleksib (ID: 9816)",
+            "iM (ID: 14759)",
+            "b1t (ID: 18987)",
+            "jL (ID: 19206)",
+            "w0nderful (ID: 20127)"
+        ],
+        "map_scores": {
+            "Nuke": 6.138081646943206,
+            "Mirage": 40.588489959584685,
+            "Dust2": 50.65028072992577,
+            "Ancient": 69.48380664839752,
+            "Anubis": 43.43774541759801,
+            "Inferno": 100.0,
+            "Vertigo": 24.176663031624866
+        }
+    },
+    {
+        "team_name": "g2",
+        "team_id": "5995",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/zFLwAELOD15BjJSDMMNBWQ.png?ixlib=java-2.1.0&w=50&s=affb583e6716d8ee904826992255cc4b",
+        "hltv_score": 570,
+        "players": [
+            "NiKo (ID: 3741)",
+            "huNter- (ID: 3972)",
+            "HooXi (ID: 10096)",
+            "m0NESY (ID: 19230)"
+        ],
+        "map_scores": {
+            "Mirage": 0.0,
+            "Anubis": 22.60239586280208,
+            "Inferno": 47.750132638352355,
+            "Dust2": 19.772786401873212,
+            "Ancient": 46.02935928676805,
+            "Nuke": 35.07235320986433,
+            "Vertigo": 17.01621017917068
+        }
+    },
+    {
+        "team_name": "virtuspro",
+        "team_id": "5378",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/yZ6Bpuui1rW3jocXQ68XgZ.svg?ixlib=java-2.1.0&s=f39be1d3e7baf30a4e7f0b1216720875",
+        "hltv_score": 393,
+        "players": [
+            "electroNic (ID: 8918)",
+            "FL1T (ID: 12732)",
+            "Jame (ID: 13776)",
+            "n0rb3r7 (ID: 16612)",
+            "fame (ID: 20101)"
+        ],
+        "map_scores": {
+            "Mirage": 19.06444336787387,
+            "Anubis": 8.389013193426432,
+            "Dust2": 12.423868063611954,
+            "Inferno": 13.936820493677383,
+            "Ancient": 24.207949936766823,
+            "Vertigo": 15.406162464985993,
+            "Nuke": 12.19189964258974
+        }
+    },
+    {
+        "team_name": "astralis",
+        "team_id": "6665",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/9bgXHp-oh1oaXr7F0mTGmd.svg?ixlib=java-2.1.0&s=f567161ab183001be33948b98c4b2067",
+        "hltv_score": 381,
+        "players": [
+            "device (ID: 7592)",
+            "stavn (ID: 10994)",
+            "br0 (ID: 16717)",
+            "jabbi (ID: 17956)",
+            "Staehr (ID: 20304)"
+        ],
+        "map_scores": {
+            "Dust2": 0.0,
+            "Inferno": 14.065577183303843,
+            "Nuke": 20.99168013813358,
+            "Ancient": 33.88273377318329,
+            "Mirage": 22.981934250346843,
+            "Vertigo": 26.872182164423247,
+            "Anubis": 10.979361160404292
+        }
+    },
+    {
+        "team_name": "complexity",
+        "team_id": "5005",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/R0CzydpyX02BnkAYhy3I89.svg?ixlib=java-2.1.0&s=8c5833d6069ef924fdbb2e220fefea00",
+        "hltv_score": 332,
+        "players": [
+            "EliGE (ID: 8738)",
+            "JT (ID: 11630)",
+            "floppy (ID: 12713)",
+            "hallzerk (ID: 12840)",
+            "Grim (ID: 13578)"
+        ],
+        "map_scores": {
+            "Nuke": 8.373592091974995,
+            "Vertigo": 35.44547055997438,
+            "Anubis": 31.099435786902447,
+            "Ancient": 6.855780592294482,
+            "Inferno": 18.056625377329034,
+            "Dust2": 0.0,
+            "Mirage": 9.994920524796512
+        }
+    },
+    {
+        "team_name": "heroic",
+        "team_id": "7175",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/6LVaK1MVX06kO1ChAq22v6.svg?ixlib=java-2.1.0&s=1ad0be7366aab3ef6825996762c3e615",
+        "hltv_score": 288,
+        "players": [
+            "NertZ (ID: 9436)",
+            "TeSeS (ID: 12018)",
+            "sjuush (ID: 14148)",
+            "degster (ID: 17306)",
+            "kyxsan (ID: 19677)"
+        ],
+        "map_scores": {
+            "Mirage": 5.320915942032327,
+            "Ancient": 15.769046269242512,
+            "Nuke": 14.913380555578781,
+            "Dust2": 5.641415557254156,
+            "Vertigo": 0.0,
+            "Anubis": 11.526888357379832,
+            "Inferno": 10.252524201103363
+        }
+    },
+    {
+        "team_name": "the-mongolz",
+        "team_id": "6248",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/bRk2sh_tSTO6fq1GLhgcal.png?ixlib=java-2.1.0&w=50&s=8b08e53858eb817852ae74b30a30151d",
+        "hltv_score": 263,
+        "players": [
+            "bLitz (ID: 20194)",
+            "Techno (ID: 20275)",
+            "Senzu (ID: 20903)",
+            "mzinho (ID: 21001)",
+            "910 (ID: 21809)"
+        ],
+        "map_scores": {
+            "Mirage": 9.35893965230241,
+            "Dust2": 0.0,
+            "Nuke": 17.0136954438492,
+            "Ancient": 20.600890927161757,
+            "Inferno": 0.0,
+            "Anubis": 27.368355065195587,
+            "Vertigo": 8.604143947655398
+        }
+    },
+    {
+        "team_name": "9z",
+        "team_id": "9996",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/COZDFWOIm41AT0srqOHFhM.png?invert=true&ixlib=java-2.1.0&sat=-100&w=50&s=b00d55fe74b90f91c5b7e2b58bda5afb",
+        "hltv_score": 254,
+        "players": [
+            "max (ID: 12092)",
+            "dgt (ID: 14736)",
+            "buda (ID: 20607)",
+            "MartinezSa (ID: 21239)",
+            "HUASOPEEK (ID: 22613)"
+        ],
+        "map_scores": {
+            "Anubis": 13.722109665495378,
+            "Dust2": 19.645680110085646,
+            "Ancient": 0.0,
+            "Inferno": 0.0,
+            "Nuke": 24.892462529815347,
+            "Mirage": 7.646716305115405,
+            "Vertigo": 8.309705561613958
+        }
+    },
+    {
+        "team_name": "eternal-fire",
+        "team_id": "11251",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/Tafdq71X3B_-73b73bAixr.png?ixlib=java-2.1.0&w=50&s=f1505e0f7e03bed0d0d2b4c809768198",
+        "hltv_score": 235,
+        "players": [
+            "MAJ3R (ID: 150)",
+            "XANTARES (ID: 7938)",
+            "woxic (ID: 8574)",
+            "Calyx (ID: 8575)",
+            "Wicadia (ID: 21243)"
+        ],
+        "map_scores": {
+            "Anubis": 12.811980640466098,
+            "Inferno": 5.057739760836155,
+            "Nuke": 0.0,
+            "Vertigo": 0.0,
+            "Mirage": 0.0,
+            "Dust2": 7.703581649466655,
+            "Ancient": 10.422354018577472
+        }
+    },
+    {
+        "team_name": "liquid",
+        "team_id": "5973",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/JMeLLbWKCIEJrmfPaqOz4O.svg?ixlib=java-2.1.0&s=c02caf90234d3a3ebac074c84ba1ea62",
+        "hltv_score": 226,
+        "players": [
+            "NAF (ID: 8520)",
+            "Twistzz (ID: 10394)",
+            "YEKINDAR (ID: 13915)",
+            "skullz (ID: 18676)"
+        ],
+        "map_scores": {
+            "Nuke": 2.9588365876909575,
+            "Inferno": 4.026718505744216,
+            "Dust2": 15.15292326848974,
+            "Anubis": 11.210371341009157,
+            "Ancient": 33.28265656539835,
+            "Mirage": 7.055762726563179,
+            "Vertigo": 7.393675027262814
+        }
+    },
+    {
+        "team_name": "falcons",
+        "team_id": "11283",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/4eJSkDQINNM6Tbs4WvLzkN.png?ixlib=java-2.1.0&w=50&s=d8c857ea47046f61eca695beab0d12ef",
+        "hltv_score": 226,
+        "players": [
+            "Snappi (ID: 922)",
+            "dupreeh (ID: 7398)",
+            "Magisk (ID: 9032)",
+            "Maden (ID: 11777)",
+            "SunPayus (ID: 19164)"
+        ],
+        "map_scores": {
+            "Nuke": 10.067753990067601,
+            "Vertigo": 9.690458271256034,
+            "Mirage": 3.3201586189184837,
+            "Dust2": 22.294250281848928,
+            "Anubis": 0.0,
+            "Ancient": 9.415244262508171,
+            "Inferno": 8.045383574476944
+        }
+    },
+    {
+        "team_name": "big",
+        "team_id": "7532",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/OgMRQA35hopXA8kDwMFHIY.svg?ixlib=java-2.1.0&s=ec7bc44165c7acf4224a22a1338ab7d7",
+        "hltv_score": 141,
+        "players": [
+            "tabseN (ID: 5794)",
+            "syrsoN (ID: 7266)",
+            "JDC (ID: 14929)",
+            "prosus (ID: 19284)",
+            "Krimbo (ID: 19899)"
+        ],
+        "map_scores": {
+            "Anubis": 0.0,
+            "Ancient": 4.641678733864581,
+            "Inferno": 4.451273059403574,
+            "Nuke": 5.170440900165285,
+            "Dust2": 18.5456595264938,
+            "Mirage": 4.244830704808157,
+            "Vertigo": 4.612868047982552
+        }
+    },
+    {
+        "team_name": "ninjas-in-pyjamas",
+        "team_id": "4411",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/-ttGATBV_P_HcZazxNNtIb.png?ixlib=java-2.1.0&w=50&s=ba94f7812d1f47183a83f3f34ab959eb",
+        "hltv_score": 140,
+        "players": [
+            "alex (ID: 8371)",
+            "REZ (ID: 9278)",
+            "isak (ID: 17937)",
+            "r1nkle (ID: 20425)",
+            "maxster (ID: 20879)"
+        ],
+        "map_scores": {
+            "Vertigo": 15.751847812916514,
+            "Ancient": 19.878352818218843,
+            "Nuke": 3.4667707185016274,
+            "Mirage": 0.0,
+            "Dust2": 4.589367791171624,
+            "Inferno": 4.983865931091913,
+            "Anubis": 4.034410925082941
+        }
+    },
+    {
+        "team_name": "betboom",
+        "team_id": "12394",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/WRXGgomxuC0jcfe6Umeisf.png?ixlib=java-2.1.0&w=50&s=a49bc59530334f1d236ab7d91d957855",
+        "hltv_score": 133,
+        "players": [
+            "zorte (ID: 15662)",
+            "nafany (ID: 16921)",
+            "s1ren (ID: 18506)",
+            "KaiR0N- (ID: 19920)",
+            "Magnojez (ID: 21667)"
+        ],
+        "map_scores": {
+            "Ancient": 8.50760894724307,
+            "Mirage": 3.2675367359027763,
+            "Nuke": 3.5656892430028746,
+            "Anubis": 5.204888168779844,
+            "Vertigo": 3.760248798416737,
+            "Dust2": 0.0,
+            "Inferno": 4.734672634537317
+        }
+    },
+    {
+        "team_name": "furia",
+        "team_id": "8297",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/mvNQc4csFGtxXk5guAh8m1.svg?ixlib=java-2.1.0&s=11e5056829ad5d6c06c5961bbe76d20c",
+        "hltv_score": 129,
+        "players": [
+            "FalleN (ID: 2023)",
+            "chelo (ID: 10566)",
+            "yuurih (ID: 12553)",
+            "KSCERATO (ID: 15631)"
+        ],
+        "map_scores": {
+            "Nuke": 5.746638339463364,
+            "Ancient": 4.43056442053433,
+            "Inferno": 10.58024479699239,
+            "Mirage": 3.3105081422040676,
+            "Vertigo": 0.0,
+            "Dust2": 4.2287746075795685,
+            "Anubis": 3.717421495254996
+        }
+    },
+    {
+        "team_name": "flyquest",
+        "team_id": "12774",
+        "logo_url": "https://img-cdn.hltv.org/teamlogo/fmqTgF6Ziw0uied7MO3_ri.png?ixlib=java-2.1.0&w=50&s=255b5a4c460ad03161509ff7eb77b2dc",
+        "hltv_score": 124,
+        "players": [
+            "dexter (ID: 9115)",
+            "Liazz (ID: 10588)",
+            "aliStair (ID: 11139)",
+            "INS (ID: 11140)",
+            "Vexite (ID: 17384)"
+        ],
+        "map_scores": {
+            "Nuke": 0.0,
+            "Ancient": 1.365758663840644,
+            "Anubis": 11.07123144581674,
+            "Mirage": 3.132472093858791,
+            "Vertigo": 5.634314794620138,
+            "Inferno": 0.0,
+            "Dust2": 4.0648686150377245
+        }
+    }
+]
